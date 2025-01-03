@@ -5,7 +5,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANTE DE REDES Y CIBERSEGURIDAD
+  <H2>Desarrollador .NET</H2>
 
 📫 Contacto: **mauro_18eze@hotmail.com**
 <!--Intro end-->
