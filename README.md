@@ -18,7 +18,7 @@ Soy una persona que le gusta estudiar de forma autodidacta ademas de la facultad
 
 <p align="left" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,css,bootstrap,html,js,php,mysql,git,github,docker,postman,vscode,bash,linux&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,css,bootstrap,html,js,php,mysql,git,github,docker,postman,vscode,bash,linux&perline=15"/>
   </a>
 </p>
 <br>
