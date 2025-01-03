@@ -5,7 +5,7 @@
 <!--Intro start-->
 
 <p align="left">
-  <H2>Desarrollador .NET</H2>
+  <b>Desarrollador .NET</b>
 
 📫 Contacto: **mauro_18eze@hotmail.com**
 <!--Intro end-->
