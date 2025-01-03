@@ -6,7 +6,7 @@
 <h2>Sobre mi 😃</h2>
 
 <p align="left">
-🎓 Estudiante de la Tecnicatura Superior en Redes y Ciberseguridad
+🎓 Estudiante de la Tecnicatura Superior en Redes y Ciberseguridad <br><br>
 <em>
 Soy una persona que le gusta estudiar de forma autodidacta ademas de la facultad, mientras estuve con la tecnicatura estuve aprendiendo todo lo que es el ecosistema de .NET. En mi GitHub subo todos los proyectos que voy realizando, con los cuales siempre aprendo a hacer algo nuevo y seguir expandiendo mis conocimientos.
 </em>
