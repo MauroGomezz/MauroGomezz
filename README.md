@@ -1,9 +1,4 @@
 <h1 align="center">Hola 👋  soy Mauro Gomez✨ </h1> 
-
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
-
 <p align="left">
   <b>Desarrollador .NET</b>
 
