@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy Mauro Gomez✨ </h1> 
 
 <p align="left">
-  <p align="center">Desarrollador .NET</p>
+  <h2 align="center">Desarrollador .NET</h2>
 
 📫 Contacto: **mauro_18eze@hotmail.com**
 <!--Intro end-->
