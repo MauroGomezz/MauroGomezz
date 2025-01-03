@@ -16,7 +16,7 @@ Soy una persona que le gusta estudiar de forma autodidacta ademas de la facultad
   
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 
-<p align="left" width=100%>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,css,html,js,php,mysql,git,github,docker,postman,vscode,bash,linux&perline=12" />
   </a>
